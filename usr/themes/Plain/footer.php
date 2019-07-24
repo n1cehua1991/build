@@ -22,10 +22,8 @@
     <a href="<?php $this->options->siteUrl(); ?>">
         <?php $this->options->title(); ?>
     </a> -
-    <?php _e('Using <a href="http://www.typecho.org" rel="external nofollow">Typecho</a> &'); ?>
-    <?php _e('<a href="https://github.com/ShiYiYa/Plain" rel="external nofollow">Theme</a> by <a href="https://runtua.cn">Shiyi</a>'); ?>
-    <p>除非特别注明，本站内容采用
-        <?php _e('<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external nofollow">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>'); ?>进行许可。</p>
+    <?php _e('<a href="http://beian.miit.gov.cn" rel="external nofollow">皖ICP备18020858号</a>'); ?>
+    <?php _e('<img width="13" height="16" alt="" src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png" />'); ?>
 </footer>
 <?php $this->footer(); ?>
 <canvas></canvas>
