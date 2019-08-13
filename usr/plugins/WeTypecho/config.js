@@ -1,4 +1,4 @@
-var domain = "www.phpwho.cn"
+var domain = "www.phpwho.com"
 var name = "N1ceHua"
 var API_SECRET = "xxx"
 

@@ -44,10 +44,8 @@
     "backgroundColor": "#EFEFEF"
   },
   "networkTimeout": {
-    "connectSocket": "1024",
     "request": 5000,
-    "downloadFile": 60000,
-    "uploadFile": ""
+    "downloadFile": 60000
   },
   "sitemapLocation": "sitemap.json"
 }
