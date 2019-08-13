@@ -1,0 +1,8 @@
+<template name="foot">
+    <view class="footerview">  
+    <text >@2019 N1ceHua</text>
+    </view>
+    <view class="footerviewwebsite">  
+    <text style>2019.pro</text>
+    </view>
+</template>
